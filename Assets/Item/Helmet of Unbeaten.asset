@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a612a3ada6062b42b5cb9f33f2c73a3, type: 3}
+  m_Name: Helmet of Unbeaten
+  m_EditorClassIdentifier: 
+  name: Helmet of Unbeaten
+  icon: {fileID: 21300000, guid: 6d49504243c9a7f41ae0b3d76a0404a7, type: 3}
+  isDefaultItem: 0
+  itemClass: 1
+  rareType: 2
+  sellPrice: 3
+  buyPrice: 7
+  equipmentSlot: 0
+  mesh: {fileID: 137922907289005346, guid: 42ef388b1f63f924d82d351782360bb7, type: 2}
+  coveredMeshRegions: 
+  armor: 2
+  damage: 0

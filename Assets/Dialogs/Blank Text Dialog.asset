@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99ec4b6438f33ea499e54532e300f8e7, type: 3}
+  m_Name: Blank Text Dialog
+  m_EditorClassIdentifier: 
+  dialog:
+  - content: Hello!!!
+    status: 0
+    dialogType: 0
+    selections: []
+    sender: {fileID: 1533185954642994, guid: bcc6aa851a1b6e64388223ab7aa89b4e, type: 2}
+  - content: Hello
+    status: 1
+    dialogType: 0
+    selections: []
+    sender: {fileID: 1533185954642994, guid: bcc6aa851a1b6e64388223ab7aa89b4e, type: 2}
+  - content: Howdy?
+    status: 0
+    dialogType: 0
+    selections: []
+    sender: {fileID: 1533185954642994, guid: bcc6aa851a1b6e64388223ab7aa89b4e, type: 2}
+  - content: Good
+    status: 1
+    dialogType: 0
+    selections: []
+    sender: {fileID: 1533185954642994, guid: bcc6aa851a1b6e64388223ab7aa89b4e, type: 2}

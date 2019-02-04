@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a612a3ada6062b42b5cb9f33f2c73a3, type: 3}
+  m_Name: Sailorman Shoes
+  m_EditorClassIdentifier: 
+  name: Sailorman Shoes
+  icon: {fileID: 21300000, guid: 5e07dba46fb07c54f976b5c98ae13a10, type: 3}
+  isDefaultItem: 1
+  equipmentSlot: 7
+  mesh: {fileID: 137906743310317608, guid: bf309e1f7924b9444afaffd28ef79d91, type: 2}
+  coveredMeshRegions: 
+  armor: 0
+  damage: 0

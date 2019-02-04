@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a612a3ada6062b42b5cb9f33f2c73a3, type: 3}
+  m_Name: Armor of Uncanny
+  m_EditorClassIdentifier: 
+  name: Armor of Uncanny
+  icon: {fileID: 21300000, guid: c9204dca992780f40a51a0287ca59e02, type: 3}
+  isDefaultItem: 0
+  itemClass: 1
+  rareType: 3
+  sellPrice: 2
+  buyPrice: 4
+  equipmentSlot: 1
+  mesh: {fileID: 137802435221873028, guid: ad8e5d0e46b7ac94f9eb17c51b5be247, type: 2}
+  coveredMeshRegions: 0100000002000000
+  armor: 2
+  damage: 0

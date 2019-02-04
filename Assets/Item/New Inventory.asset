@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80be5d2ca3efe11439b56d8e7ee4dd4c, type: 3}
+  m_Name: New Inventory
+  m_EditorClassIdentifier: 
+  itemList:
+  - {fileID: 11400000, guid: 15dbd4790bda2cd4e9ba4c117f473888, type: 2}
+  - {fileID: 11400000, guid: 966195587effa8946bf152ca73265e29, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 553a154f2a6452e438b57604924e8bf4, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 15dbd4790bda2cd4e9ba4c117f473888, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 15c8e77a6360ea241992b80990e2fa77, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 980bfaa324fe6744eb13db37086e4067, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 15dbd4790bda2cd4e9ba4c117f473888, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: f9bfb2bf39d15c34386cf8d6733a3483, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 15dbd4790bda2cd4e9ba4c117f473888, type: 2}
+  - {fileID: 0}
+  items:
+  - item: {fileID: 11400000, guid: 15dbd4790bda2cd4e9ba4c117f473888, type: 2}
+  - item: {fileID: 11400000, guid: 966195587effa8946bf152ca73265e29, type: 2}
+  - item: {fileID: 0}
+  - item: {fileID: 11400000, guid: 553a154f2a6452e438b57604924e8bf4, type: 2}
+  - item: {fileID: 0}
+  - item: {fileID: 11400000, guid: 15dbd4790bda2cd4e9ba4c117f473888, type: 2}
+  - item: {fileID: 0}
+  - item: {fileID: 11400000, guid: 15c8e77a6360ea241992b80990e2fa77, type: 2}
+  - item: {fileID: 0}
+  - item: {fileID: 11400000, guid: 980bfaa324fe6744eb13db37086e4067, type: 2}
+  - item: {fileID: 0}
+  - item: {fileID: 0}
+  - item: {fileID: 11400000, guid: 15dbd4790bda2cd4e9ba4c117f473888, type: 2}
+  - item: {fileID: 0}
+  - item: {fileID: 11400000, guid: f9bfb2bf39d15c34386cf8d6733a3483, type: 2}
+  - item: {fileID: 0}
+  - item: {fileID: 0}
+  - item: {fileID: 0}
+  - item: {fileID: 11400000, guid: 15dbd4790bda2cd4e9ba4c117f473888, type: 2}
+  - item: {fileID: 0}
+  openToMarket: 1
